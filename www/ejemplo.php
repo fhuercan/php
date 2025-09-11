@@ -1,1 +1,1 @@
-<?php echo "otro ejemplo"; ?>
+<?php echo "otro ewerejemplo"; ?>
