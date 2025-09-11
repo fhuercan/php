@@ -1,5 +1,5 @@
 <?php
     echo "Hwerwerello, World!";
-    echo "estosxsxs es owerwerwertro ejemplo";
+    echo "jaja es owerwerwertro ejemplo";
 ?>
 
